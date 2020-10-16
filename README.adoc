@@ -1,0 +1,20 @@
+= Deliverances - Repo Crawler
+Tunggul Hutagalung
+
+:project-key: deliverances:repo-crawler
+
+:sonar-url: https://sonarcloud.io
+:sonar-lines-of-code: {sonar-url}/api/project_badges/measure?project={project-key}&metric=ncloc
+:sonar-quality-gate: {sonar-url}/api/project_badges/measure?project={project-key}&metric=alert_status
+:sonar-coverage: {sonar-url}/api/project_badges/measure?project={project-key}&metric=coverage
+:sonar-bugs: {sonar-url}/api/project_badges/measure?project={project-key}&metric=bugs
+:sonar-vulnerabilities: {sonar-url}/api/project_badges/measure?project={project-key}&metric=vulnerabilities
+
+image:{sonar-lines-of-code}[]
+image:{sonar-quality-gate}[]
+image:{sonar-coverage}[]
+image:{sonar-bugs}[]
+image:{sonar-vulnerabilities}[]
+
+Small application to iterate and fetch files from different repository managements, currently supported: 
+Github, GitLab and Bitbucket.

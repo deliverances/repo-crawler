@@ -1,0 +1,251 @@
+{
+    "pagelen": 10,
+    "values": [
+        {
+            "scm": "git",
+            "website": null,
+            "has_wiki": false,
+            "uuid": "{af6be812-5f37-4f09-8dc2-6e9fd8231338}",
+            "links": {
+                "watchers": {
+                    "href": "https://api.bitbucket.org/2.0/repositories/Test/dailytask/watchers"
+                },
+                "branches": {
+                    "href": "https://api.bitbucket.org/2.0/repositories/Test/dailytask/refs/branches"
+                },
+                "tags": {
+                    "href": "https://api.bitbucket.org/2.0/repositories/Test/dailytask/refs/tags"
+                },
+                "commits": {
+                    "href": "https://api.bitbucket.org/2.0/repositories/Test/dailytask/commits"
+                },
+                "clone": [
+                    {
+                        "href": "https://bitbucket.org/Test/dailytask.git",
+                        "name": "https"
+                    },
+                    {
+                        "href": "git@bitbucket.org:Test/dailytask.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": {
+                    "href": "https://api.bitbucket.org/2.0/repositories/Test/dailytask"
+                },
+                "source": {
+                    "href": "https://api.bitbucket.org/2.0/repositories/Test/dailytask/src"
+                },
+                "html": {
+                    "href": "https://bitbucket.org/Test/dailytask"
+                },
+                "avatar": {
+                    "href": "https://bytebucket.org/ravatar/%7Baf6be812-5f37-4f09-8dc2-6e9fd8231338%7D?ts=default"
+                },
+                "hooks": {
+                    "href": "https://api.bitbucket.org/2.0/repositories/Test/dailytask/hooks"
+                },
+                "forks": {
+                    "href": "https://api.bitbucket.org/2.0/repositories/Test/dailytask/forks"
+                },
+                "downloads": {
+                    "href": "https://api.bitbucket.org/2.0/repositories/Test/dailytask/downloads"
+                },
+                "pullrequests": {
+                    "href": "https://api.bitbucket.org/2.0/repositories/Test/dailytask/pullrequests"
+                }
+            },
+            "fork_policy": "allow_forks",
+            "full_name": "Test/dailytask",
+            "name": "DailyTask",
+            "project": {
+                "links": {
+                    "self": {
+                        "href": "https://api.bitbucket.org/2.0/workspaces/Test/projects/VUEP"
+                    },
+                    "html": {
+                        "href": "https://bitbucket.org/Test/workspace/projects/VUEP"
+                    },
+                    "avatar": {
+                        "href": "https://bitbucket.org/account/user/Test/projects/VUEP/avatar/32?ts=1594628465"
+                    }
+                },
+                "type": "project",
+                "name": "VueProject",
+                "key": "VUEP",
+                "uuid": "{f176cb42-8657-40d1-bb47-321c7b169dbb}"
+            },
+            "language": "",
+            "created_on": "2020-07-13T08:21:05.119946+00:00",
+            "mainbranch": {
+                "type": "branch",
+                "name": "master"
+            },
+            "workspace": {
+                "slug": "Test",
+                "type": "workspace",
+                "name": "Testing",
+                "links": {
+                    "self": {
+                        "href": "https://api.bitbucket.org/2.0/workspaces/Test"
+                    },
+                    "html": {
+                        "href": "https://bitbucket.org/Test/"
+                    },
+                    "avatar": {
+                        "href": "https://bitbucket.org/workspaces/Test/avatar/?ts=1594798261"
+                    }
+                },
+                "uuid": "{898fbfe6-845a-4bb9-a8e2-467c7cfe6c5a}"
+            },
+            "has_issues": false,
+            "owner": {
+                "display_name": "Test Mail",
+                "uuid": "{898fbfe6-845a-4bb9-a8e2-467c7cfe6c5a}",
+                "links": {
+                    "self": {
+                        "href": "https://api.bitbucket.org/2.0/users/%7B898fbfe6-845a-4bb9-a8e2-467c7cfe6c5a%7D"
+                    },
+                    "html": {
+                        "href": "https://bitbucket.org/%7B898fbfe6-845a-4bb9-a8e2-467c7cfe6c5a%7D/"
+                    },
+                    "avatar": {
+                        "href": "https://secure.gravatar.com/avatar/c14dc93bcd2fe281342412e874b627ac?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTM-4.png"
+                    }
+                },
+                "nickname": "Test Mail",
+                "type": "user",
+                "account_id": "5f0c15f51c682d00291fa145"
+            },
+            "updated_on": "2020-07-14T16:07:32.522776+00:00",
+            "size": 77240,
+            "type": "repository",
+            "slug": "dailytask",
+            "is_private": false,
+            "description": ""
+        },
+        {
+            "scm": "git",
+            "website": null,
+            "has_wiki": false,
+            "uuid": "{70afd230-7d33-4c6a-84e8-1c08c1b7445e}",
+            "links": {
+                "watchers": {
+                    "href": "https://api.bitbucket.org/2.0/repositories/Test/dailytask-15-07-2020/watchers"
+                },
+                "branches": {
+                    "href": "https://api.bitbucket.org/2.0/repositories/Test/dailytask-15-07-2020/refs/branches"
+                },
+                "tags": {
+                    "href": "https://api.bitbucket.org/2.0/repositories/Test/dailytask-15-07-2020/refs/tags"
+                },
+                "commits": {
+                    "href": "https://api.bitbucket.org/2.0/repositories/Test/dailytask-15-07-2020/commits"
+                },
+                "clone": [
+                    {
+                        "href": "https://bitbucket.org/Test/dailytask-15-07-2020.git",
+                        "name": "https"
+                    },
+                    {
+                        "href": "git@bitbucket.org:Test/dailytask-15-07-2020.git",
+                        "name": "ssh"
+                    }
+                ],
+                "self": {
+                    "href": "https://api.bitbucket.org/2.0/repositories/Test/dailytask-15-07-2020"
+                },
+                "source": {
+                    "href": "https://api.bitbucket.org/2.0/repositories/Test/dailytask-15-07-2020/src"
+                },
+                "html": {
+                    "href": "https://bitbucket.org/Test/dailytask-15-07-2020"
+                },
+                "avatar": {
+                    "href": "https://bytebucket.org/ravatar/%7B70afd230-7d33-4c6a-84e8-1c08c1b7445e%7D?ts=default"
+                },
+                "hooks": {
+                    "href": "https://api.bitbucket.org/2.0/repositories/Test/dailytask-15-07-2020/hooks"
+                },
+                "forks": {
+                    "href": "https://api.bitbucket.org/2.0/repositories/Test/dailytask-15-07-2020/forks"
+                },
+                "downloads": {
+                    "href": "https://api.bitbucket.org/2.0/repositories/Test/dailytask-15-07-2020/downloads"
+                },
+                "pullrequests": {
+                    "href": "https://api.bitbucket.org/2.0/repositories/Test/dailytask-15-07-2020/pullrequests"
+                }
+            },
+            "fork_policy": "allow_forks",
+            "full_name": "Test/dailytask-15-07-2020",
+            "name": "DailyTask(15-07-2020)",
+            "project": {
+                "links": {
+                    "self": {
+                        "href": "https://api.bitbucket.org/2.0/workspaces/Test/projects/VUEP"
+                    },
+                    "html": {
+                        "href": "https://bitbucket.org/Test/workspace/projects/VUEP"
+                    },
+                    "avatar": {
+                        "href": "https://bitbucket.org/account/user/Test/projects/VUEP/avatar/32?ts=1594628465"
+                    }
+                },
+                "type": "project",
+                "name": "VueProject",
+                "key": "VUEP",
+                "uuid": "{f176cb42-8657-40d1-bb47-321c7b169dbb}"
+            },
+            "language": "",
+            "created_on": "2020-07-15T05:28:38.431623+00:00",
+            "mainbranch": {
+                "type": "branch",
+                "name": "master"
+            },
+            "workspace": {
+                "slug": "Test",
+                "type": "workspace",
+                "name": "Testing",
+                "links": {
+                    "self": {
+                        "href": "https://api.bitbucket.org/2.0/workspaces/Test"
+                    },
+                    "html": {
+                        "href": "https://bitbucket.org/Test/"
+                    },
+                    "avatar": {
+                        "href": "https://bitbucket.org/workspaces/Test/avatar/?ts=1594798261"
+                    }
+                },
+                "uuid": "{898fbfe6-845a-4bb9-a8e2-467c7cfe6c5a}"
+            },
+            "has_issues": false,
+            "owner": {
+                "display_name": "Test Mail",
+                "uuid": "{898fbfe6-845a-4bb9-a8e2-467c7cfe6c5a}",
+                "links": {
+                    "self": {
+                        "href": "https://api.bitbucket.org/2.0/users/%7B898fbfe6-845a-4bb9-a8e2-467c7cfe6c5a%7D"
+                    },
+                    "html": {
+                        "href": "https://bitbucket.org/%7B898fbfe6-845a-4bb9-a8e2-467c7cfe6c5a%7D/"
+                    },
+                    "avatar": {
+                        "href": "https://secure.gravatar.com/avatar/c14dc93bcd2fe281342412e874b627ac?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FTM-4.png"
+                    }
+                },
+                "nickname": "Test Mail",
+                "type": "user",
+                "account_id": "5f0c15f51c682d00291fa145"
+            },
+            "updated_on": "2020-07-15T08:29:32.653047+00:00",
+            "size": 82768,
+            "type": "repository",
+            "slug": "dailytask-15-07-2020",
+            "is_private": false,
+            "description": ""
+        }
+    ],
+    "page": 1,
+    "size": 10
+}
